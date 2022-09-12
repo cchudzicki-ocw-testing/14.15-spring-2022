@@ -17,13 +17,13 @@ Readings are assigned from the following two textbooks. See suggested additional
 
 ### Lecture 1
 
-#### **Topic:** Introduction to social and economic networks 
+**Topic:** Introduction to social and economic networks 
 
 **Reading:** \[EK\] Chapter 1; \[Jackson\] Chapter 1 
 
 ### Lecture 2
 
-#### **Topic:** Describing and measuring networks 
+**Topic:** Describing and measuring networks 
 
 **Reading:** EK, Chapters 2, 3, 4, and 13; Jackson, Chapters 2 and 3 
 
