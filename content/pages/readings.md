@@ -15,116 +15,124 @@ Readings are assigned from the following two textbooks. See suggested additional
 
 - An excellent textbook at a somewhat more advanced level.
 
-### Lecture 1
+#### Lecture 1
 
 **Topic:** Introduction to social and economic networks 
 
 **Reading:** \[EK\] Chapter 1; \[Jackson\] Chapter 1 
 
-### Lecture 2
+#### Lecture 2
 
 **Topic:** Describing and measuring networks 
 
-**Reading:** EK, Chapters 2, 3, 4, and 13; Jackson, Chapters 2 and 3 
+**Reading:** \[EK\] Chapters 2, 3, 4, and 13; \[Jackson\] Chapters 2 and 3 
 
-### Lecture 3
+#### Lecture 3
 
-#### Topic: Eigenvector-based centrality measures 
+**Topic:** Eigenvector-based centrality measures 
 
-**Reading:** EK, Chapter 14 
+**Reading:** \[EK\] Chapter 14 
 
-### Lecture 4
+#### Lecture 4
 
-#### **Topic:** Production networks 
+**Topic:** Production networks 
 
-**Optional Reading:** “Production Networks: A Primer,” Carvalho and Tahbaz-Salehi, *Annual Review of Economics*, 11:635-663, 2019. (Note: This reading is a bit too advanced. You can skim it as you wish.) 
+**Optional Reading:** “Production Networks: A Primer,” Carvalho and Tahbaz-Salehi, *Annual Review of Economics*, 11:635-663, 2019. 
 
-### Lecture 5 
+- Note: This reading is a bit too advanced. You can skim it as you wish.
 
-#### **Topic:** Social learning on networks 1: DeGroot learning 
+#### Lecture 5 
 
-**Reading:** Jackson, Chapter 8.3 
+**Topic:** Social learning on networks 1: DeGroot learning 
 
-### Lectures 6–8 
+**Reading:** \[Jackson\] Chapter 8.3 
 
-#### **Topic:** Random graphs 
+#### Lectures 6–8 
 
-**Reading:** Jackson, Chapter 4 
+**Topic:** Random graphs 
 
-### Lecture 9  
+**Reading:** \[Jackson\] Chapter 4 
 
-#### **Topic:** Diffusion models 
+#### Lecture 9  
 
-**Reading:** EK, Chapter 21; Jackson, Chapters 7.1-7.2 
+**Topic:** Diffusion models 
 
-### Lecture 10
+**Reading:** \[EK\] Chapter 21; \[Jackson\] Chapters 7.1-7.2 
 
-#### **Topic:** Diffusion models and the Covid-19 Pandemic (g*uest lecture by Sara Ellison)*
+#### Lecture 10
 
-Reading: “An Economist’s Guide to Epidemiology Models of Infectious Disease,” Ellison et al., *Journal of Economic Perspectives*, 34(4) 79-104, 2020 
+**Topic:** Diffusion models and the Covid-19 Pandemic (g*uest lecture by Sara Ellison)*
 
-### Lectures 11–12 
+**Reading:** “An Economist’s Guide to Epidemiology Models of Infectious Disease,” Ellison et al., *Journal of Economic Perspectives*, 34(4) 79-104, 2020.
 
-#### Topic: Strategic aspects of diffusion and cascading behavior 
+#### Lectures 11–12 
 
-Reading: EK, Chapter 19; Jackson, Chapter 9.6 
+**Topic:** Strategic aspects of diffusion and cascading behavior 
 
-### Lecture 13
+**Reading:** \[EK\] Chapter 19; \[Jackson\] Chapter 9.6 
 
-#### Topic: Introduction to game theory 
+#### Lecture 13
 
-Reading: EK, Chapter 6 
+**Topic:** Introduction to game theory 
 
-### Lecture 14
+**Reading:** \[EK\] Chapter 6 
 
-#### Topic: Network traffic and congestion 
+#### Lecture 14
 
-Reading: EK, Chapter 8 
+**Topic:** Network traffic and congestion 
 
-### Lectures 15–16
+**Reading:** \[EK\] Chapter 8 
 
-#### Topic: Network effects in markets 
+#### Lectures 15–16
 
-Reading: EK, Chapter 17; Jackson Section 9.7 and 10.1-10.2 
+**Topic:** Network effects in markets 
 
-### Lecture 17
+**Reading:** \[EK\] Chapter 17; \[Jackson\] Section 9.7 and 10.1-10.2 
 
-#### Topic: Competitive pricing in networks 
+#### Lecture 17
 
-Reading: EK, Chapter 10 
+**Topic:** Competitive pricing in networks 
 
-#### **Lecture 18**
+**Reading:** \[EK\] Chapter 10 
 
-#### **Topic:** Bargaining and intermediation in networks 
+#### Lecture 18
 
-Reading: EK, Chapters 11 and 12; Jackson, Section 10.3 
+**Topic:** Bargaining and intermediation in networks 
 
-#### **Lecture 19**
+**Reading:** \[EK\] Chapters 11 and 12; \[Jackson\] Section 10.3 
 
-#### **Topic:** Trust and cooperation in networks 
+#### Lecture 19
 
-#### **Lecture 20** *(Guest lecture by Asuman Ozdaglar)*
+**Topic:** Trust and cooperation in networks 
 
-#### **Topic:** Advanced topics in network game theory
+No assigned readings
 
-#### **Lecture 21**
+#### Lecture 20 *(Guest lecture by Asuman Ozdaglar)*
 
-#### **Topic: ** Auctions 
+**Topic:** Advanced topics in network game theory
 
-Reading: EK, Chapters 9 and 15 
+No assigned readings
 
-#### **Lecture 22** 
+#### Lecture 21
 
-#### Topic: Information aggregation 
+**Topic: ** Auctions 
 
-Reading: EK, Chapters 22 and 23 
+**Reading:** \[EK\] Chapters 9 and 15 
 
-#### **Lecture 23** 
+#### Lecture 22 
 
-#### Topic: Social learning on networks 2: Bayesian learning 
+**Topic:** Information aggregation 
 
-Reading: EK, Chapter 16, Jackson, Chapter 8.1-8.2 
+**Reading:** \[EK\] Chapters 22 and 23 
 
-#### **Lecture 25** *(Guest lecture by James Siderius)*
+#### Lecture 23 
 
-#### Topic: Social networks, misinformation, and polarization
+**Topic:** Social learning on networks 2: Bayesian learning 
+
+**Reading:** \[EK\] Chapter 16; \[Jackson\] Chapter 8.1-8.2 
+
+#### Lecture 25 *(Guest lecture by James Siderius)*
+
+**Topic:** Social networks, misinformation, and polarization
+
+ No assigned readings
