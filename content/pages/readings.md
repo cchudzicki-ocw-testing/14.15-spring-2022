@@ -16,13 +16,13 @@ Readings are assigned from the following two textbooks. See suggested additional
 
 - An excellent textbook at a somewhat more advanced level.
 
-#### Lecture 1
+### Lecture 1
 
 **Topic:** Introduction to social and economic networks 
 
 **Reading:** \[EK\] Chapter 1; \[Jackson\] Chapter 1 
 
-#### Lecture 2
+### Lecture 2
 
 **Topic:** Describing and measuring networks 
 
