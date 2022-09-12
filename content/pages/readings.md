@@ -5,7 +5,7 @@ draft: false
 title: Readings
 uid: 409c7b21-9bdc-4cd3-8fb5-02d7d174d9c8
 ---
-#### Readings are assigned from the following two textbooks. See suggested additional readings.
+Readings are assigned from the following two textbooks. See suggested additional readings.
 
 \[EK\] =  David Easley and Jon Kleinberg, *Networks, Crowds, and Markets: Reasoning about a Highly Connected World*, Cambridge University Press. 
 
@@ -15,47 +15,51 @@ uid: 409c7b21-9bdc-4cd3-8fb5-02d7d174d9c8
 
 - An excellent textbook at a somewhat more advanced level.
 
-### **Lecture 1**
+### Lecture 1
 
-**Topic:** Introduction to social and economic networks 
+#### **Topic:** Introduction to social and economic networks 
 
 **Reading:** \[EK\] Chapter 1; \[Jackson\] Chapter 1 
 
-### **Lecture 2**
+### Lecture 2
 
-**Topic:** Describing and measuring networks 
+#### **Topic:** Describing and measuring networks 
 
 **Reading:** EK, Chapters 2, 3, 4, and 13; Jackson, Chapters 2 and 3 
 
-#### **Lecture 3**
+### Lecture 3
 
-#### Eigenvector-based centrality measures 
+#### Topic: Eigenvector-based centrality measures 
 
-Reading: EK, Chapter 14 
+**Reading:** EK, Chapter 14 
 
-#### **Lecture 4**
+### Lecture 4
 
-#### Production networks 
+#### **Topic:** Production networks 
 
-Optional Reading: “Production Networks: A Primer,” Carvalho and Tahbaz-Salehi, *Annual Review of Economics*, 11:635-663, 2019. (Note: This reading is a bit too advanced. You can skim it as you wish.) 
+**Optional Reading:** “Production Networks: A Primer,” Carvalho and Tahbaz-Salehi, *Annual Review of Economics*, 11:635-663, 2019. (Note: This reading is a bit too advanced. You can skim it as you wish.) 
 
-#### **Lecture 5 (February 14):** Social learning on networks 1: DeGroot learning 
+### Lecture 5 
 
-Reading: Jackson, Chapter 8.3 
+#### **Topic:** Social learning on networks 1: DeGroot learning 
 
-#### **Lectures 6—8 (February 16, 22, 23):** Random graphs 
+**Reading:** Jackson, Chapter 8.3 
 
-Reading: Jackson, Chapter 4 
+### Lectures 6–8 
 
-#### **Lecture 9 (February 28):** Diffusion models 
+#### **Topic:** Random graphs 
+
+**Reading:** Jackson, Chapter 4 
+
+#### **Lecture 9 ** Diffusion models 
 
 Reading: EK, Chapter 21; Jackson, Chapters 7.1-7.2 
 
-#### **Lecture 10 (March 2):** Diffusion models and the Covid-19 Pandemic (g*uest lecture by Sara Ellison)*
+#### **Lecture 10** Diffusion models and the Covid-19 Pandemic (g*uest lecture by Sara Ellison)*
 
 Reading: “An Economist’s Guide to Epidemiology Models of Infectious Disease,” Ellison et al., *Journal of Economic Perspectives*, 34(4) 79-104, 2020 
 
-#### **Lecture 11-12 (March 7 and 9):** Strategic aspects of diffusion and cascading behavior 
+#### **Lecture 11-12** Strategic aspects of diffusion and cascading behavior 
 
 Reading: EK, Chapter 19; Jackson, Chapter 9.6 
 
