@@ -11,3 +11,7 @@ leftnav:
   name: Readings
   url: /pages/readings
   weight: 30
+- identifier: 44cff8b4-7986-4123-b5c3-380030cafbce
+  name: Assignments
+  url: /pages/assignments
+  weight: 40
