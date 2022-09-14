@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT14_15S22_pset4.pdf
+title: Problem Set 4
 uid: fee43388-1c1c-4f74-9e07-1acce5a0096d
 video_files:
   video_captions_file: ''
