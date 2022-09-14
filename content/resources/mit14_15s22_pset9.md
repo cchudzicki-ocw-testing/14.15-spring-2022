@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT14_15S22_pset9.pdf
+title: Problem Set 9
 uid: 7a5ebae5-06db-4e96-a26f-1b52a108a8fe
 video_files:
   video_captions_file: ''
