@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT14_15S22_pset5.pdf
+title: Problem Set 5
 uid: cb119121-b260-49ba-a123-ea7b38e7fae6
 video_files:
   video_captions_file: ''
