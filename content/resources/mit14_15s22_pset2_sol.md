@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT14_15S22_pset2_sol.pdf
+title: Problem Set 2 Solutions
 uid: 10156671-6569-4d7e-866b-791fd9ad0a5c
 video_files:
   video_captions_file: ''
