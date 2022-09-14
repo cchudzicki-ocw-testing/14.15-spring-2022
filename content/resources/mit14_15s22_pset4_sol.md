@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT14_15S22_pset4_sol.pdf
+title: Problem Set 4 Solutions
 uid: 0b59bc48-e44d-49c7-97ef-a48cff6c1a8a
 video_files:
   video_captions_file: ''
