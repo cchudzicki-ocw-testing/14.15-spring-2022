@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Exams with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT14_15S22_midterm_pracsol.pdf
+title: Midterm Practice Exam Solutions
 uid: 30583123-829c-44b6-9e0f-7a9ea31ee945
 video_files:
   video_captions_file: ''
