@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Exams with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT14_15S22_midterm_sol.pdf
+title: Midterm Exam Solutions (PDF)
 uid: 4231533b-f491-48b7-80e0-835b0fb2eef0
 video_files:
   video_captions_file: ''
