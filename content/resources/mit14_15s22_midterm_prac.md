@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT14_15S22_midterm_prac.pdf
+title: Midterm Practice Exam (PDF)
 uid: 6bec12ff-57c7-4ba9-acec-ba9fa70e924c
 video_files:
   video_captions_file: ''
