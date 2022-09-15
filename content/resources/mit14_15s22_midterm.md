@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT14_15S22_midterm.pdf
+title: Midterm Exam (PDF)
 uid: 33da8ed2-0bcb-4c35-82d5-ed52060d1f08
 video_files:
   video_captions_file: ''
