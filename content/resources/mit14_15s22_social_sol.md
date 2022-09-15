@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT14_15S22_social_sol.pdf
+title: Social Network Practice Problems (PDF)
 uid: 19125a6d-a843-4f1d-8943-f7ddfe19202d
 video_files:
   video_captions_file: ''
