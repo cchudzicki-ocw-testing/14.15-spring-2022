@@ -29,6 +29,10 @@
     "content": "8f161e5f-766b-4061-9e9e-e5d197814059",
     "website": "networks"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
   "site_uid": "6dae7864-54d0-46e7-8c3c-f49ffa0ab264"
 }
