@@ -5,7 +5,17 @@
     "Undergraduate",
     "Graduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Networks"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
