@@ -34,7 +34,7 @@ Activities
 {{< thclose >}}{{< thopen >}}
 Percentages
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Homework (10 PSets)
+Homework (10 Psets)
 {{< tdclose >}}{{< tdopen >}}
 40%
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
