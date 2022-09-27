@@ -29,21 +29,23 @@ The lecture slides we will provide and post on the course website contain all of
 
 ### Grading
 
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Activities
-
+{{< thclose >}}{{< thopen >}}
 Percentages
-
-Homeworks (10 PSets)
-
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+Homework (10 PSets)
+{{< tdclose >}}{{< tdopen >}}
 40%
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Midterm Exam
-
+{{< tdclose >}}{{< tdopen >}}
 30%
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final Exam
-
+{{< tdclose >}}{{< tdopen >}}
 30%
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 The midterm and final exams will both be implemented via Qualtrics. The exam will be available for 24 hours. You may access the exam any time during that period, and once you access it you will have 3 hours to complete the exam. 
 
