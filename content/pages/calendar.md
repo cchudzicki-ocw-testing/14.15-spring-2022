@@ -11,33 +11,57 @@ Topics
 
 Key Dates
 
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+Ses #
+{{< thclose >}}{{< thopen >}}
+Topics
+{{< thclose >}}{{< thopen >}}
+Key Dates
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-
+{{< tdclose >}}{{< tdopen >}}
 Introduction to social and economic networks
-
+{{< tdclose >}}{{< tdopen >}}
  
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
+{{< tdclose >}}{{< tdopen >}}
 
 Describing and measuring networks 
 
 - Directed and undirected graphs, degree, walks, paths, cycles, connectivity, clustering, homophily, centrality. 
 
+{{< tdclose >}}{{< tdopen >}}
  
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
+{{< tdclose >}}{{< tdopen >}}
 
 Eigenvector-based centrality measures 
 
 - Eigenvector centrality, Perron-Frobenius theorem, Katz-Bonacich centrality, Leontief inverse, PageRank. 
 
+{{< tdclose >}}{{< tdopen >}}
  
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
+{{< tdclose >}}{{< tdopen >}}
 
 Production networks 
 
 - Economic fluctuations, Leontief input-out analysis, propagation of shocks.
+
+{{< tdclose >}}{{< tdopen >}}
+Pset 1 Due
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+ 
+
+ 
+
+ 
+
+4
 
 Pset 1 Due
 
@@ -161,7 +185,7 @@ Pset 8 Due
 
 20
 
-Advanced topics in network game theory - *Guest lecture by Asuman Ozdaglar* 
+Advanced topics in network game theory - *Guest lecture by Asuman Ozdaglar*
 
  
 
