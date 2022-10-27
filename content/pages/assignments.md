@@ -31,5 +31,5 @@ You may interact with fellow students when preparing your homework solutions. Ho
 
 {{% resource_link "fb8c99ef-7b53-4c3f-b359-d3a91a994f4a" "Practice Problems (PDF)" %}}  
 
-{{% resource_link "b83c624d-3b28-4d08-be05-06d1b9d79479" "Social Network Practice Problems (PDF)" %}}    
-{{% resource_link "19125a6d-a843-4f1d-8943-f7ddfe19202d" "Social Network Practice Problem Solutions (PDF)" %}}
+{{% resource_link "b83c624d-3b28-4d08-be05-06d1b9d79479" "Problems on Social Media Networks (PDF)" %}}  
+{{% resource_link "19125a6d-a843-4f1d-8943-f7ddfe19202d" "Problems on Social Media Networks Solutions (PDF)" %}}
