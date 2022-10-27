@@ -46,7 +46,7 @@ Production networks 
 - Economic fluctuations, Leontief input-out analysis, propagation of shocks.
 
 {{< tdclose >}}{{< tdopen >}}
-Pset 1 Due
+Problem Set 1 Due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -66,7 +66,7 @@ Random graphs
 - Erdos-Renyi graphs, branching processes, degree distributions, threshold functions, phase transitions, connectivity, giant component, configuration model, small worlds model. 
 
 {{< tdclose >}}{{< tdopen >}}
-Pset 2 Due
+Problem Set 2 Due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -78,7 +78,7 @@ Random graphs (cont.)
 {{< tdclose >}}{{< tdopen >}}
 Random graphs (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Pset 3 Due
+Problem Set 3 Due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
@@ -94,7 +94,7 @@ Diffusion models 
 {{< tdclose >}}{{< tdopen >}}
 Diffusion models and the Covid-19 Pandemic - *Guest lecture by Sara Ellison*
 {{< tdclose >}}{{< tdopen >}}
-Pset. 4Due
+Problem Set 4 Due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
@@ -110,7 +110,7 @@ Strategic aspects of diffusion and cascading behavior 
 {{< tdclose >}}{{< tdopen >}}
 Strategic aspects of diffusion and cascading behavior (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Pset 5 Due
+Problem Set 5 Due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -152,7 +152,7 @@ Network effects in markets 
 {{< tdclose >}}{{< tdopen >}}
 Network effects in markets (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Pset 6 Due
+Problem Set 6 Due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17 
 {{< tdclose >}}{{< tdopen >}}
@@ -172,7 +172,7 @@ Bargaining and intermediation in networks 
 - Nash bargaining, ultimatum and alternating-offers bargaining, intermediation, bid-ask spreads, structural holes.
 
 {{< tdclose >}}{{< tdopen >}}
-Pset 7 Due
+Problem Set 7 Due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19 
 {{< tdclose >}}{{< tdopen >}}
@@ -182,7 +182,7 @@ Trust and cooperation in networks 
 - Repeated prisoners’ dilemma, contagion, gossip, social capital, social collateral.
 
 {{< tdclose >}}{{< tdopen >}}
-Pset 8 Due
+Problem Set 8 Due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -198,7 +198,7 @@ Auctions 
 - First- and second-price auctions, winner’s curse, sponsored search auctions, Vickrey-Clarke-Groves mechanism.
 
 {{< tdclose >}}{{< tdopen >}}
-Pset 9 Due
+Problem Set 9 Due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
@@ -218,7 +218,7 @@ Social learning on networks 2: Bayesian learning 
 - Herding, information cascades, improvement principle, sacrificial lambs 
 
 {{< tdclose >}}{{< tdopen >}}
-Pset 10 Due
+Problem Set 10 Due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24 
 {{< tdclose >}}{{< tdopen >}}
