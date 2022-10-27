@@ -51,4 +51,4 @@ The midterm and final exams will both be implemented via Qualtrics. The exam wil
 
 Attendance and active class participation is **mandatory** and will be recorded. Students who must miss class should inform the TAs in advance. Attendance and class participation will factor into the grade in marginal cases. 
 
-Graduate students enrolled in 14.150 must additionally complete an approximately five-page literature review/research proposal on a topic of their choice, subject to approval by the instructor and TAs.
+Graduate students enrolled in 14.150 must additionally complete an approximately five-page literature review/research proposal on a topic of their choice, subject to approval by the instructor and TAs. This is due on the last day of class.
